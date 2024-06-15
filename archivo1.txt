@@ -1,0 +1,6 @@
+p,peliculas-1,Pocahontas,120,drama
+p,peliculas-2,Avengers,180,accion
+p,pelicula-3,Inferno,100,misterio
+c,episodio-1,Stranger Things,50,misterio,temporada-1,1
+c,episodio-2,Suits,45,drama,temporada-2,2
+c,episodio-3,Arrow,42,accion,temporada-3,3
